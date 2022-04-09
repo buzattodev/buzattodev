@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buzattodev
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on any projects that helps me improve my knowledge as front-end developer
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any projects that helps me improve my knowledge as a developer
 - 📫 You can reach me at LinkedIn by following the link in my profile.
 
 <!---
